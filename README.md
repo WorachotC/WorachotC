@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img alt="mewo" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd25vNnNjbnJjNWlydmFlMjZ0OThneXRsNDdzZnhxbnFyZzRvMGg4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GaqnjVbSLs2uA/giphy.gif">
+<img alt="mewo" src="[https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd25vNnNjbnJjNWlydmFlMjZ0OThneXRsNDdzZnhxbnFyZzRvMGg4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GaqnjVbSLs2uA/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnJ6eWswZ2RvbTJ3M29xd2NyaTY0MHJlaTFwc2Q0MHlzN3E0dTkxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lq0h93752f6J9tijrh/giphy.gif)">
 
 <!--
 **WorachotC/WorachotC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
