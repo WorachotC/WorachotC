@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd25vNnNjbnJjNWlydmFlMjZ0OThneXRsNDdzZnhxbnFyZzRvMGg4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GaqnjVbSLs2uA/giphy.gif
+
 <!--
 **WorachotC/WorachotC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
